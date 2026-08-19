@@ -2,6 +2,7 @@
 
 This is the official repository for the paper:  
 **"SEG-SAM:Semantic-guided SAM for unified medical image segmentation"**
+
 Shuangping Huang, Hao Liang, Qingfeng Wang, ChulongZhong, Gang Wei, Miaojing Shi*
 
 ### 📌 Status
